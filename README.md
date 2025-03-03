@@ -41,7 +41,7 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 
 | # | Tutorial | Date / Duration | Status |
 | ----------- | ----------- | ----------- | ----------- |
-| **1 a** | [Coding Tutorial – Module 1](https://github.com/abeerarshad2025/Coding-Tutorial-Module-1) | <code>&mdash;</code> | Finished |
+| **1.** | [Coding Tutorial – Module 1](https://github.com/abeerarshad2025/Coding-Tutorial-Module-1) | <code>&mdash;</code> | Finished |
 | **1 b** | [Coding Tutorial – Module 2](https://github.com/abeerarshad2025/Coding-Tutorial-Module-2) | <code>&mdash;</code> | TODO |
 | **2**   | [Django for Beginners](https://github.com/abeerarshad2025/Django-for-Beginners)           | <code>3 Mar 2025 &mdash; dd Mar 2025</code> | **In Progress** |
 
