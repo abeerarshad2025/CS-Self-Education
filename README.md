@@ -18,14 +18,11 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 | # | Course | Date / Duration | Status |
 | ----------- | ----------- | ----------- | ----------- |
 <!--
-| **1** | [Flutter Development]((https://github.com/abeerarshad2025/Flutter-Development)) | | |
--->
-
-<!--
-| **1** | [Full Stack Development with TypeScript, React, Next.js, MongoDB](https://github.com/abeerarshad2025/Full-Stack-Development-with-TRNM) | - | **Ongoing** |
-| **1** | [Web Design & Development Bootcamp](https://github.com/abeerarshad2025/Web-Design-Development-Bootcamp) | - | - |
-| **2** | [Introduction to Computer Science & AI with Python](https://github.com/abeerarshad2025/Intro-CS-AI-Python) | - | - |
-| **3** | [Mathematics Foundations for CS]() | - | - |
+| - | [Flutter Development]((https://github.com/abeerarshad2025/Flutter-Development)) | | |
+| - | [Full Stack Development with TypeScript, React, Next.js, MongoDB](https://github.com/abeerarshad2025/Full-Stack-Development-with-TRNM) | - | **Ongoing** |
+| - | [Web Design & Development Bootcamp](https://github.com/abeerarshad2025/Web-Design-Development-Bootcamp) | - | - |
+| - | [Introduction to Computer Science & AI with Python](https://github.com/abeerarshad2025/Intro-CS-AI-Python) | - | - |
+| - | [Mathematics Foundations for CS]() | - | - |
 | - | English Composition | - | - |
 | - | Object Oriented Programming: Java, Ruby & Smalltalk | - | - |
 | - | Computing with Lisp | - | - |
@@ -43,16 +40,12 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 | ----------- | ----------- | ----------- | ----------- |
 | **1.** | [Coding Tutorial – Module 1](https://github.com/abeerarshad2025/Coding-Tutorial-Module-1) | <code>&mdash;</code> | Finished |
 | **2.** | [Coding Tutorial – Module 2](https://github.com/abeerarshad2025/Coding-Tutorial-Module-2) | <code>&mdash;</code> | TODO |
-| **3.** | [Django for Beginners](https://github.com/abeerarshad2025/Django-for-Beginners)         | <code>3 Mar 2025 &mdash; dd Mar 2025</code> | **In Progress** |
+| **3.** | [Django for Beginners](https://github.com/abeerarshad2025/Django-for-Beginners)           | <code>4 Mar 2025 &mdash; dd Mar 2025</code> | **In Progress** |
 
 <!--
-| **3** | [JavaScript Node Express MongoDB Tutorial](https://github.com/abeerarshad2025/JavaScript-Node-Express-MongoDB-Tutorial) | <code>dd Mmm YYYY &mdash; dd Mmm YYYY</code> | |
-| **4** | [Full Stack MERN](https://github.com/abeerarshad2025/Full-Stack-MERN) | <code>dd Mmm YYYY &mdash; dd Mmm YYYY</code> | |
--->
-
-<!-- | **5** | [Next.js Development](https://github.com/abeerarshad2025/Next.js-Development) | <code>dd Mmm YYYY &mdash; dd Mmm YYYY</code> | | -->
-
-<!--
+| - | [JavaScript Node Express MongoDB Tutorial](https://github.com/abeerarshad2025/JavaScript-Node-Express-MongoDB-Tutorial) | <code>dd Mmm YYYY &mdash; dd Mmm YYYY</code> | |
+| - | [Full Stack MERN](https://github.com/abeerarshad2025/Full-Stack-MERN) | <code>dd Mmm YYYY &mdash; dd Mmm YYYY</code> | |
+| - | [Next.js Development](https://github.com/abeerarshad2025/Next.js-Development) | <code>dd Mmm YYYY &mdash; dd Mmm YYYY</code> | |
 | - | [JS Node Express MongoDB Tutorial](https://github.com/abeerarshad2025/JS-Node-Express-MongoDB-Tutorial) | - | - |
 | - | [The PHP Workshop](https://github.com/abeerarshad2025/The-PHP-Workshop) | - | - |
 | - | [Go Hands On Tutorial](https://github.com/abeerarshad2025/Go-Hands-On-Tutorial) | - | - |
