@@ -40,7 +40,7 @@ My self-designed and ongoing programming, CS, math etc self-education courses
 | ----------- | ----------- | ----------- | ----------- |
 | **1.** | [Coding Tutorial – Module 1](https://github.com/abeerarshad2025/Coding-Tutorial-Module-1) | <code>&mdash;</code> | Finished |
 | **2.** | [Coding Tutorial – Module 2](https://github.com/abeerarshad2025/Coding-Tutorial-Module-2) | <code>&mdash;</code> | TODO |
-| **3.** | [Django for Beginners](https://github.com/abeerarshad2025/Django-for-Beginners)           | <code>4 Mar 2025 &mdash; dd Mar 2025</code> | **In Progress** |
+| **3.** | [Django for Beginners](https://github.com/abeerarshad2025/Django-for-Beginners)           | <code>dd Mmm YYYY &mdash; dd Mmm YYYY</code> | TODO |
 
 <!--
 | - | [JavaScript Node Express MongoDB Tutorial](https://github.com/abeerarshad2025/JavaScript-Node-Express-MongoDB-Tutorial) | <code>dd Mmm YYYY &mdash; dd Mmm YYYY</code> | |
